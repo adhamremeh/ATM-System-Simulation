@@ -1,7 +1,7 @@
 # ATM-System-Simulation
 
 #### This project consists of two main scripts:
-'jframe.java'
+`jframe.java`
 - This one contains the GUI for the ATM system and handles the credentials for admin and users.
 
 
